@@ -62,9 +62,6 @@ var myVar = "Hello, world!";
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit your changes.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-main
-
-![Image of Cat](https://schertzanimalhospital.com/wp-content/uploads/2022/03/cat-behavior-schertz-tx.jpg)
 
 <footer>
 
