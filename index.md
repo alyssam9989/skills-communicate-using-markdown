@@ -9,3 +9,7 @@
 ``` csharp
 string message = "My name is Alyssa!";
 ```
+- [ ] Finish GitHub Assignment
+- [ ] Have Dinner
+- [ ] Watch Movie
+- [ ] Go to bed
