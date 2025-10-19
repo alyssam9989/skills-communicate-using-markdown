@@ -1,0 +1,15 @@
+# Welcome
+
+## This is my first time using GitHub!
+
+### I am learning how to use pull requests!
+
+![Image of Cool Cat](https://schertzanimalhospital.com/wp-content/uploads/2022/03/cat-behavior-schertz-tx.jpg)
+
+``` csharp
+string message = "My name is Alyssa!";
+```
+- [ ] Finish GitHub Assignment
+- [ ] Have Dinner
+- [ ] Watch Movie
+- [ ] Go to bed
