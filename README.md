@@ -43,6 +43,8 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 1. Commit your changes.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+![Image of Cat](https://schertzanimalhospital.com/wp-content/uploads/2022/03/cat-behavior-schertz-tx.jpg)
+
 <footer>
 
 <!--
